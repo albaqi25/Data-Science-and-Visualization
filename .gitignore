@@ -1,0 +1,11 @@
+# Mengabaikan virtual environment
+.venv/
+
+# Mengabaikan file output hackathon
+retail_insight.xlsx
+rising_star_index.png
+rising_star_actual.png
+
+# Mengabaikan dataset (opsional, tapi disarankan agar repository tidak berat)
+sales_transaction.csv
+data_penjualan.xlsx

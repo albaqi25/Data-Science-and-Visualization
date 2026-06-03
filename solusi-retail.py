@@ -233,7 +233,7 @@ if not plot_df.empty:
 
     plt.tight_layout()
     plt.savefig('rising_star_actual.png', bbox_inches='tight')
-    
+# code yang diubah   
     print("\n✅ SELESAI! Seluruh file berhasil dibuat di folder proyek Anda.")
 else:
     print("\n⚠️ Data diproses, tetapi tidak ada produk yang memenuhi syarat Rising Star (naik 12 hari beruntun).")
